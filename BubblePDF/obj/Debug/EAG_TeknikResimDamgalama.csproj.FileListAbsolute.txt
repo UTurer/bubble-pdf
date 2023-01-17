@@ -1,0 +1,13 @@
+C:\Users\Utku\source\repos\EAG_TeknikResimDamgalama\EAG_TeknikResimDamgalama\bin\Debug\EAG_TeknikResimDamgalama.exe.config
+C:\Users\Utku\source\repos\EAG_TeknikResimDamgalama\EAG_TeknikResimDamgalama\bin\Debug\EAG_TeknikResimDamgalama.exe
+C:\Users\Utku\source\repos\EAG_TeknikResimDamgalama\EAG_TeknikResimDamgalama\bin\Debug\EAG_TeknikResimDamgalama.pdb
+C:\Users\Utku\source\repos\EAG_TeknikResimDamgalama\EAG_TeknikResimDamgalama\obj\Debug\EAG_TeknikResimDamgalama.csprojAssemblyReference.cache
+C:\Users\Utku\source\repos\EAG_TeknikResimDamgalama\EAG_TeknikResimDamgalama\obj\Debug\EAG_TeknikResimDamgalama.Properties.Resources.resources
+C:\Users\Utku\source\repos\EAG_TeknikResimDamgalama\EAG_TeknikResimDamgalama\obj\Debug\EAG_TeknikResimDamgalama.csproj.GenerateResource.cache
+C:\Users\Utku\source\repos\EAG_TeknikResimDamgalama\EAG_TeknikResimDamgalama\obj\Debug\EAG_TeknikResimDamgalama.exe
+C:\Users\Utku\source\repos\EAG_TeknikResimDamgalama\EAG_TeknikResimDamgalama\obj\Debug\EAG_TeknikResimDamgalama.pdb
+C:\Users\Utku\source\repos\EAG_TeknikResimDamgalama\EAG_TeknikResimDamgalama\obj\Debug\EAG_TeknikResimDamgalama.exe.licenses
+C:\Users\Utku\source\repos\EAG_TeknikResimDamgalama\EAG_TeknikResimDamgalama\obj\Debug\EAG_TeknikResimDamgalama.Form1.resources
+C:\Users\Utku\source\repos\EAG_TeknikResimDamgalama\EAG_TeknikResimDamgalama\obj\Debug\EAG_TeknikResimDamgalama.Form3.resources
+C:\Users\Utku\source\repos\EAG_TeknikResimDamgalama\EAG_TeknikResimDamgalama\obj\Debug\EAG_TeknikResimDamgalama.Form2.resources
+C:\Users\Utku\source\repos\EAG_TeknikResimDamgalama\EAG_TeknikResimDamgalama\obj\Debug\EAG_TeknikResimDamgalama.csproj.CoreCompileInputs.cache

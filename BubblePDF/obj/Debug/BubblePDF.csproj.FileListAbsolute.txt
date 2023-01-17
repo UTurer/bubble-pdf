@@ -1,0 +1,13 @@
+C:\Users\uture\source\repos\UTurer\bubble-pdf\BubblePDF\bin\Debug\EAG_TeknikResimDamgalama.exe.config
+C:\Users\uture\source\repos\UTurer\bubble-pdf\BubblePDF\bin\Debug\EAG_TeknikResimDamgalama.exe
+C:\Users\uture\source\repos\UTurer\bubble-pdf\BubblePDF\bin\Debug\EAG_TeknikResimDamgalama.pdb
+C:\Users\uture\source\repos\UTurer\bubble-pdf\BubblePDF\obj\Debug\BubblePDF.csproj.AssemblyReference.cache
+C:\Users\uture\source\repos\UTurer\bubble-pdf\BubblePDF\obj\Debug\EAG_TeknikResimDamgalama.Form1.resources
+C:\Users\uture\source\repos\UTurer\bubble-pdf\BubblePDF\obj\Debug\EAG_TeknikResimDamgalama.Form2.resources
+C:\Users\uture\source\repos\UTurer\bubble-pdf\BubblePDF\obj\Debug\EAG_TeknikResimDamgalama.Form3.resources
+C:\Users\uture\source\repos\UTurer\bubble-pdf\BubblePDF\obj\Debug\EAG_TeknikResimDamgalama.Properties.Resources.resources
+C:\Users\uture\source\repos\UTurer\bubble-pdf\BubblePDF\obj\Debug\BubblePDF.csproj.GenerateResource.cache
+C:\Users\uture\source\repos\UTurer\bubble-pdf\BubblePDF\obj\Debug\EAG_TeknikResimDamgalama.exe.licenses
+C:\Users\uture\source\repos\UTurer\bubble-pdf\BubblePDF\obj\Debug\BubblePDF.csproj.CoreCompileInputs.cache
+C:\Users\uture\source\repos\UTurer\bubble-pdf\BubblePDF\obj\Debug\EAG_TeknikResimDamgalama.exe
+C:\Users\uture\source\repos\UTurer\bubble-pdf\BubblePDF\obj\Debug\EAG_TeknikResimDamgalama.pdb

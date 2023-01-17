@@ -1,0 +1,57 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EAG_TeknikResimDamgalama.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Form1Size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">816, 489</Value>
+    </Setting>
+    <Setting Name="splitContainer1SplitterDistance" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">247</Value>
+    </Setting>
+    <Setting Name="splitContainer2SplitterDistance" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">161</Value>
+    </Setting>
+    <Setting Name="Form2textBox1Font" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Tahoma, 8.25pt, style=Bold</Value>
+    </Setting>
+    <Setting Name="Form2comboBox1SelectedIndex" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Form2panel1BackColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="Form2textBox3Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="Form2textBox2Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="Form2panel2BackColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Magenta</Value>
+    </Setting>
+    <Setting Name="Form2textBox1Color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="Form2Size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">575, 448</Value>
+    </Setting>
+    <Setting Name="Form2splitContainer1SplitterDistance" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="PdfiumDllPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Form2InsertKey" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">Ins</Value>
+    </Setting>
+    <Setting Name="Form2DeleteKey" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">Del</Value>
+    </Setting>
+    <Setting Name="Form2NoText" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Form2NoShape" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

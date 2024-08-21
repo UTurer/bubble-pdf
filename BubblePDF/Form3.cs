@@ -20,7 +20,7 @@ namespace EAG_TeknikResimDamgalama
         private void Form3_Load(object sender, EventArgs e)
         {
             string nl = System.Environment.NewLine;
-            string text = @"Ekinoks-AG Teknik Resim Damgalama Programı" + nl + nl;
+            string text = @"Teknik Resim Damgalama Programı" + nl + nl;
             text = text + @"Version: 0.9" + nl;
             text = text + @"Date: 27.07.2020" + nl;
             text = text + @"Revised By: Utku TÜRER" + nl;

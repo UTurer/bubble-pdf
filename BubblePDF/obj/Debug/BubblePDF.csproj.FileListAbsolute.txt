@@ -11,3 +11,16 @@ C:\Users\uture\source\repos\UTurer\bubble-pdf\BubblePDF\obj\Debug\EAG_TeknikResi
 C:\Users\uture\source\repos\UTurer\bubble-pdf\BubblePDF\obj\Debug\BubblePDF.csproj.CoreCompileInputs.cache
 C:\Users\uture\source\repos\UTurer\bubble-pdf\BubblePDF\obj\Debug\EAG_TeknikResimDamgalama.exe
 C:\Users\uture\source\repos\UTurer\bubble-pdf\BubblePDF\obj\Debug\EAG_TeknikResimDamgalama.pdb
+C:\Users\intel\Source\Repos\UTurer\bubble-pdf\BubblePDF\bin\Debug\EAG_TeknikResimDamgalama.exe.config
+C:\Users\intel\Source\Repos\UTurer\bubble-pdf\BubblePDF\bin\Debug\EAG_TeknikResimDamgalama.exe
+C:\Users\intel\Source\Repos\UTurer\bubble-pdf\BubblePDF\bin\Debug\EAG_TeknikResimDamgalama.pdb
+C:\Users\intel\Source\Repos\UTurer\bubble-pdf\BubblePDF\obj\Debug\BubblePDF.csproj.AssemblyReference.cache
+C:\Users\intel\Source\Repos\UTurer\bubble-pdf\BubblePDF\obj\Debug\EAG_TeknikResimDamgalama.Form1.resources
+C:\Users\intel\Source\Repos\UTurer\bubble-pdf\BubblePDF\obj\Debug\EAG_TeknikResimDamgalama.Form2.resources
+C:\Users\intel\Source\Repos\UTurer\bubble-pdf\BubblePDF\obj\Debug\EAG_TeknikResimDamgalama.Form3.resources
+C:\Users\intel\Source\Repos\UTurer\bubble-pdf\BubblePDF\obj\Debug\EAG_TeknikResimDamgalama.Properties.Resources.resources
+C:\Users\intel\Source\Repos\UTurer\bubble-pdf\BubblePDF\obj\Debug\BubblePDF.csproj.GenerateResource.cache
+C:\Users\intel\Source\Repos\UTurer\bubble-pdf\BubblePDF\obj\Debug\EAG_TeknikResimDamgalama.exe.licenses
+C:\Users\intel\Source\Repos\UTurer\bubble-pdf\BubblePDF\obj\Debug\BubblePDF.csproj.CoreCompileInputs.cache
+C:\Users\intel\Source\Repos\UTurer\bubble-pdf\BubblePDF\obj\Debug\EAG_TeknikResimDamgalama.exe
+C:\Users\intel\Source\Repos\UTurer\bubble-pdf\BubblePDF\obj\Debug\EAG_TeknikResimDamgalama.pdb
